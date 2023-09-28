@@ -38,5 +38,5 @@ SQL files: Share SQL scripts used for data analysis and advanced analytics.
 
 Power BI report: Share the Power BI file containing the interactive dashboards and reports.
 
-Outcome:
+## Outcome:
 The successful implementation of this BI solution will empower Axon to make informed decisions, improve sales strategies, and ultimately enhance its overall business performance in the classic car retail industry.
