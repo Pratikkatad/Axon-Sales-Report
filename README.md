@@ -32,8 +32,6 @@ Deployment: Deploy the BI solution to the sales team and management, ensuring us
 
 ## Deliverables:
 
-Documented report in Word or PDF format: This report will provide detailed documentation of the entire project, including data sources, data cleaning processes, dashboard design, SQL queries, and deployment instructions.
-
 SQL files: Share SQL scripts used for data analysis and advanced analytics.
 
 Power BI report: Share the Power BI file containing the interactive dashboards and reports.
