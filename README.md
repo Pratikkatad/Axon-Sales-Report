@@ -7,7 +7,7 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 <a href="https://www.novypro.com/project/axon-sales-power-bi" target="_blank">Explore the Interactive Dashboard</a>
 
 
-<img src="https://drive.google.com/file/d/1eCIfXwPoIVlF8B9MwN-VU2YDDH5rgf2H/view?usp=sharing" alt="Vrinda Store Analysis Image" style="width:100%; max-width:800px;">
+<img src="https://drive.google.com/file/d/1eCIfXwPoIVlF8B9MwN-VU2YDDH5rgf2H/view?usp=sharing" alt="Axon Sales Analysis Report" style="width:100%; max-width:800px;">
 
 
 ## Key Features:
