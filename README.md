@@ -7,6 +7,7 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 ## Explore the Interactive Dashboard:<a href="https://www.novypro.com/project/axon-sales-power-bi" target="_blank">  Dashboard</a>
 
 
+## Dashboard:
 ![Untitled video - Made with Clipchamp (1) (1)](https://github.com/Pratikkatad/Axon-Sales-Report/assets/143333538/72f6d0f1-1f74-4389-97c8-19927773aa8e)
 
 
