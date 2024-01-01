@@ -8,7 +8,7 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 
 
 ## Dashboard:
-![Untitled video - Made with Clipchamp (1) (1)](https://github.com/Pratikkatad/Axon-Sales-Report/assets/143333538/72f6d0f1-1f74-4389-97c8-19927773aa8e)
+[Recording 2024-01-01 211332](https://github.com/Pratikkatad/Axon-Sales-Report/assets/143333538/55174ec8-4e1d-4a04-be69-aac285ce7e73)
 
 
 ## Key Features:
